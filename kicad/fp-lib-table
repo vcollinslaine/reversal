@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Reversal")(type "KiCad")(uri "${KIPRJMOD}/Footprints")(options "")(descr ""))
   (lib (name "Kailh")(type "KiCad")(uri "${KIPRJMOD}/Kailh")(options "")(descr ""))
+  (lib (name "RP2040-Zero")(type "KiCad")(uri "${KIPRJMOD}/RP2040-Zero")(options "")(descr ""))
 )

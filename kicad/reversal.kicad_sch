@@ -1484,7 +1484,7 @@
     (property "Value" "USB_A" (at 45.72 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Southpaw:USB_A_Female_C42425" (at 49.53 66.04 0)
+    (property "Footprint" "Reversal:USB_A_Female_C42425" (at 49.53 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (at 49.53 66.04 0)
