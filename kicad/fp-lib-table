@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Reversal")(type "KiCad")(uri "${KIPRJMOD}/Footprints")(options "")(descr ""))
+  (lib (name "Kailh")(type "KiCad")(uri "${KIPRJMOD}/Kailh")(options "")(descr ""))
+)
